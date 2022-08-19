@@ -1,0 +1,167 @@
+
+.f{
+  font-family: 'Poppins', sans-serif;
+  font-size: 64px;
+  color: #1a2850;
+  font-weight: 100;
+  text-align: center;
+  font-weight: lighter;
+}
+
+p{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 21px;
+  margin-bottom: 50px;
+}
+
+.t{
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  margin-left: 650px;
+  border:1px solid gray;
+  border-radius: 35px;
+  width: 264px;
+  height: 60px;
+  padding: 2px;
+  padding-left:25px;
+  background-color:#F5F5F5;
+  margin-bottom: 50px;
+
+}
+
+.m{
+  display: flex;
+  align-items: flex-end;
+  border: 1px solid #2500f9;
+  border-radius: 35px;
+  background-color: #2500f9;
+  color:white;
+  padding-left: 34px;
+  padding-right: 34px;
+  font-weight: bold;
+  margin-right: -9px;
+  font-size: 15px;
+}
+
+.y{
+  display: flex;
+  align-items: center;
+  margin-left: 30px;
+  padding-right: 50px;
+}
+
+.g{
+  display: flex;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.c{
+  background-color: #F5F5F5;
+}
+
+.j{
+  padding-top: 30px;
+}
+
+.u{
+  background-color: #F5F5F5;
+}
+
+.w{
+  padding-top: 30px;
+}
+
+.o{
+  margin-right: 25px;
+  box-shadow: 1px 1px 1px  gray;
+}
+
+.v{
+  margin-left: 25px;
+  box-shadow: 1px 1px 1px  gray;
+  
+}
+
+.hmo{
+  padding-top: 30px;
+  text-align: center;
+}
+
+.h{
+  white-space: nowrap;
+  font-size: 40px;
+  display: inline;
+  padding-left: 60px;
+  color: #1a2850;
+}
+
+.mo{
+  white-space: nowrap;
+  display: inline;
+  color:gray;
+  opacity: 0.7;
+  
+}
+
+.class{
+  padding-top: 15px;
+  text-align: center;
+  color: #1a2850;
+  font-size: 18px;
+}
+
+.fo{
+  text-align: center;
+  padding-bottom: 30px;
+  padding-left: 35px;
+  padding-right: 35px;
+  color: gray;
+  opacity: 0.7;
+}
+
+.text{
+  text-align: center;
+  padding-bottom: 25px;
+  color: gray;
+  opacity: 0.7;
+}
+
+.start{
+  text-align: center;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+  border: 1px solid #2500f9;
+  background-color: #2500f9;
+  color:white;
+  border-radius: 35px;
+  height:35px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-right: 25px;
+  margin-left: 25px;
+
+}
+
+.tr{
+  text-align: center;
+  padding-bottom: 15px;
+  color:#2500f9;
+}
+
+.v:hover .start{
+  background-color: #1f2b89 ;
+}
+
+.o:hover .start{
+  background-color: #1f2b89 ;
+}
+
+.v:hover .tr{
+  color: #1f2b89 ;
+}
